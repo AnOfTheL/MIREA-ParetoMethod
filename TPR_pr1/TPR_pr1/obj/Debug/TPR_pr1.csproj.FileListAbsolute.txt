@@ -1,0 +1,12 @@
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\bin\Debug\TPR_pr1.exe.config
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\bin\Debug\TPR_pr1.exe
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\bin\Debug\TPR_pr1.pdb
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\obj\Debug\TPR_pr1.csprojAssemblyReference.cache
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\obj\Debug\TPR_pr1.Form1.resources
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\obj\Debug\TPR_pr1.Properties.Resources.resources
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\obj\Debug\TPR_pr1.csproj.GenerateResource.cache
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\obj\Debug\TPR_pr1.exe
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\obj\Debug\TPR_pr1.pdb
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\obj\Debug\TPR_pr1.Records.resources
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\obj\Debug\TPR_pr1.Suboptimization.resources
+C:\Users\Mi Air\source\repos\TPR_pr1\TPR_pr1\obj\Debug\TPR_pr1.LexicographicOptimization.resources
